@@ -1,7 +1,7 @@
 extends RefCounted
 ## Display-time localization. Game logic, save data and campaign content keep
 ## their English source strings (several double as logic keys); only text that is
-## drawn goes through t() / f() / notice(). Korean is the default; L toggles.
+## drawn goes through t() / f() / notice(). English is the default; L toggles.
 
 const SETTINGS_PATH := "user://settings.cfg"
 ## Hangul subsets of Noto Sans KR (KS X 1001 syllables). DejaVu stays primary for
@@ -11,7 +11,7 @@ const KOREAN_UI: Font = preload("res://assets/ko_ui.ttf")
 const KOREAN_TITLE: Font = preload("res://assets/ko_title.ttf")
 const LOCALES := ["ko", "en"]
 
-static var locale := "ko"
+static var locale := "en"
 ## Test hook: when valid, main.gd reports every drawn string as (text, pos, size, bold).
 static var recorder: Callable
 

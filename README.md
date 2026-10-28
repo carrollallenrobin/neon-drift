@@ -31,7 +31,7 @@ Level choices are Overdrive, Phase Engine and Recovery. In campaign, recipes evo
 Fan unlocks at 100 lifetime kills; Lance at 300. Select them in Hangar. Permanent Hull, Reactor and Salvage Array upgrades retain five ranks each. Six journal achievements award cores once per pilot. Sector and boss rewards are part of the atomic run/profile checkpoint so reloading a checkpoint cannot separately replay its already-saved reward.
 
 ## Controls
-The game starts in Korean; press L on any screen to switch between Korean and English (remembered per browser). WASD/arrows move; Space dashes; auto-fire aims at nearest active enemy. 1–3 choose upgrades/relics. Esc/P pauses; M mutes; V reduces visual effects. Title: Enter continues or opens map, C/N opens map, H opens hangar. Map: 1–3 selects unlocked sectors, S cycles ships, J opens journal, Enter launches. Click controls are also supported.
+The game starts in English; press L on any screen to switch between Korean and English (remembered per browser). WASD/arrows move; Space dashes; auto-fire aims at nearest active enemy. 1–3 choose upgrades/relics. Esc/P pauses; M mutes; V reduces visual effects. Title: Enter continues or opens map, C/N opens map, H opens hangar. Map: 1–3 selects unlocked sectors, S cycles ships, J opens journal, Enter launches. Click controls are also supported.
 
 A new campaign requires confirmation before replacing a suspended run. Victory can continue into Endless. New campaign retries start at sector one. Existing old-format expeditions continue under the original ten-minute survival rules.
 
